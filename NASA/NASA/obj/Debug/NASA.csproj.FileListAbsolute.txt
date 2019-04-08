@@ -1,0 +1,7 @@
+C:\source\NASA\NASA\bin\Debug\NASA.exe.config
+C:\source\NASA\NASA\bin\Debug\NASA.exe
+C:\source\NASA\NASA\bin\Debug\NASA.pdb
+C:\source\NASA\NASA\obj\Debug\NASA.csprojAssemblyReference.cache
+C:\source\NASA\NASA\obj\Debug\NASA.csproj.CoreCompileInputs.cache
+C:\source\NASA\NASA\obj\Debug\NASA.exe
+C:\source\NASA\NASA\obj\Debug\NASA.pdb
